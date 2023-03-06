@@ -13,64 +13,64 @@ I publish my work under the CC-BY-NC-SA license. Thanks to everyone who share th
 
 # Cartridge
 Simple cartridges :
-https://github.com/bwack/Versa64Cart
-https://github.com/SukkoPera/OpenC64Cart
-https://github.com/SukkoPera/OpenC64Cart16K
-https://github.com/SukkoPera/OpenC64KernalCart
+- https://github.com/bwack/Versa64Cart
+- https://github.com/SukkoPera/OpenC64Cart
+- https://github.com/SukkoPera/OpenC64Cart16K
+- https://github.com/SukkoPera/OpenC64KernalCart
 
 Diagnostic :
-https://github.com/svenpetersen1965/Diag64cart
-https://github.com/svenpetersen1965/C64-Diagnostic-Rev.-586220-Harness
+- https://github.com/svenpetersen1965/Diag64cart
+- https://github.com/svenpetersen1965/C64-Diagnostic-Rev.-586220-Harness
 
 Advanced cartridges :
-https://github.com/KimJorgensen/KungFuFlash
-https://github.com/Sgw32/KungFuFlashGD32
-https://github.com/frntc/RAD
-https://github.com/crystalct/MagicDesk2
-https://github.com/msolajic/c64-uni-cart
+- https://github.com/KimJorgensen/KungFuFlash
+- https://github.com/Sgw32/KungFuFlashGD32
+- https://github.com/frntc/RAD
+- https://github.com/crystalct/MagicDesk2
+- https://github.com/msolajic/c64-uni-cart
 
 
 # CIA
 
 # CPU
-https://github.com/monotech/MOS_CPU_Replacer
+- https://github.com/monotech/MOS_CPU_Replacer
 
 # Drive
-https://cbm-pi1541.firebaseapp.com/
-https://github.com/pi1541/Pi1541
-https://github.com/hackup/Pi1541io
-https://github.com/tebl/C64-Pi1541-Module
-https://github.com/Beaupre-Circuit-Design/c64-Pi1541
+- https://cbm-pi1541.firebaseapp.com/
+- https://github.com/pi1541/Pi1541
+- https://github.com/hackup/Pi1541io
+- https://github.com/tebl/C64-Pi1541-Module
+- https://github.com/Beaupre-Circuit-Design/c64-Pi1541
 
 
 # Modulator
-https://github.com/c0pperdragon/C64-Video-Enhancement/tree/master/analog_only
-https://github.com/pmandes/C64-RF-Modulator
-https://github.com/tebl/C64-Modulator-Replacement
-https://github.com/mbarszcz-pcb/c64-rf-modulator-replacement
+- https://github.com/c0pperdragon/C64-Video-Enhancement/tree/master/analog_only
+- https://github.com/pmandes/C64-RF-Modulator
+- https://github.com/tebl/C64-Modulator-Replacement
+- https://github.com/mbarszcz-pcb/c64-rf-modulator-replacement
 
 # PLA
-https://github.com/1c3d1v3r/neatPLA
-https://github.com/desaster/c64-dodgypla
-https://www.freepascal.org/~daniel/c64pla/
+- https://github.com/1c3d1v3r/neatPLA
+- https://github.com/desaster/c64-dodgypla
+- https://www.freepascal.org/~daniel/c64pla/
 
 # RAM
 
 # ROM
-https://github.com/SukkoPera/Open2327RomAdapter
-https://www.hackup.net/2022/05/the-kernal-quattro-a-2364-rom-replacement/
+- https://github.com/SukkoPera/Open2327RomAdapter
+- https://www.hackup.net/2022/05/the-kernal-quattro-a-2364-rom-replacement/
 
 # SID
-http://tolaemon.com/nss/
-https://github.com/jsanpe/SwinsidNeat
-https://github.com/dmantione/swinsid
+- http://tolaemon.com/nss/
+- https://github.com/jsanpe/SwinsidNeat
+- https://github.com/dmantione/swinsid
 
 # Tape
-https://github.com/sweetlilmre/tapuino
-http://sweetlilmre.blogspot.com/2015/03/building-tapuino-r2.html
-https://github.com/sweetlilmre/TapuinoNext
+- https://github.com/sweetlilmre/tapuino
+- http://sweetlilmre.blogspot.com/2015/03/building-tapuino-r2.html
+- https://github.com/sweetlilmre/TapuinoNext
 
 # VIC2
-https://github.com/Jartza/8565_adapter
+- https://github.com/Jartza/8565_adapter
 
 
