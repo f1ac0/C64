@@ -688,7 +688,6 @@
     )
   )
 
-
   (junction (at 217.17 125.73) (diameter 0) (color 0 0 0 0)
     (uuid 16ad3c2e-a524-48a2-acb0-09ee991a3722)
   )
@@ -2050,7 +2049,7 @@
     (property "Reference" "X1" (at 238.76 129.0193 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "SG-7050CAN" (at 238.76 131.5593 0)
+    (property "Value" "32MHz" (at 238.76 131.5593 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Crystal:Crystal_SMD_7050-4Pin_7.0x5.0mm" (at 243.84 142.24 0)
