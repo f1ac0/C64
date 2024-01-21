@@ -1,14 +1,14 @@
 # C64
-I bought my fisrt C64. It was listed as "Untested", and off course it was faulty (12v fuse in PSU, 6569 VIC-II that I replaced with a 8565, and RAM U10 replaced with a 41256).
+I bought my fisrt C64. It was listed as "Untested", and of course it was faulty (12v fuse in PSU, 6569 VIC-II that I replaced with a 8565, RAM U10 replaced with a 41256 and 7406 U8 with dead output to IEC port).
 
 While repairing it, I learned about the components inside the C64, their signals and common faults. I bookmarked open-source alternatives and useful expansions : below is a list of the projects I found interesting.
 
-In this repository I share the boards I created or modified for my own needs (while waiting for the replacement VIC-II). At the time of writing, they are still untested. 
+In this repository I share the boards I created or modified for my own needs (for example to use the parts I have in stock, to add features, or because I like my own routing). At the time of writing, some are still untested. 
 
 # Disclaimer and Acknowledgements
 This is a hobbyist project, it comes with no warranty and no support. Also remember that the Commodore machines are about 40 years old and may fail because of such hardware expansions.
 
-I publish my work under the CC-BY-NC-SA license. Thanks to everyone who share their knowledge and creations.
+I publish my work under the CC-BY-NC-SA license, unless stated otherwise. Thanks to everyone who share their knowledge and creations.
 
 
 # Cartridge
